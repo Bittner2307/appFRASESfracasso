@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
             "  VOCE É FRACASSADO PULE DE UM PRÉDIO !",
             "  O NÃO VOCÊ JÁ TEM,BUSQUE A HUMILHAÇÃO !!",
             "  SE UMA COISA TEM A CHANCE DE DAR ERRADO ... DARÁ !!",
-            "  ACRADITAR QUE VOCÊ PODE JAÉ MEIOCAMINHO ANDADO PARA O FRACASSO!!",
+            "  ACRADITAR QUE VOCÊ PODE JA É MEIOCAMINHO ANDADO PARA O FRACASSO!!",
             " NÃO TENHA MEDO DE FRACASSO, TENHA COSTUME !!",
             " DAQUI A UM ANO VOCÊ VAI DESEJAR TER DESISTIDO HOJE !! !!",
             " SEM LUTAS NÃO HÁ DERROTAS !!",
